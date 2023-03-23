@@ -1,4 +1,10 @@
+#include<stdio.h>
 int main()
 {
-    printf("enter a number");
+    int i;
+    for(i=1; i<=5; i++)
+    {
+        printf("\n Hello World");
+    }
+    return 0;
 }
