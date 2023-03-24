@@ -17,5 +17,5 @@
 >>> variables.c
 >>> bacics.c
 >>
-> here we all wee see the follow of the my towards my journey of c programing
+> 
 >>
