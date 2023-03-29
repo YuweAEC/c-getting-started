@@ -87,3 +87,18 @@ void main()
           {
             for(j=0;j<n;j++)
             {
+
+              if(m>=4&&n>=4)
+              {
+                if(i>j)
+                {
+
+                    if(matrix[i][j]>large)
+                       large=matrix[i][j];
+
+                    if(matrix[i][j]<small)
+                       small=matrix[i][j];
+
+                   }
+
+                }
