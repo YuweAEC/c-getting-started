@@ -212,3 +212,14 @@ void main()
 
                     if(matrix[i][j]<small)
                        small=matrix[i][j];
+
+                   }
+                  }
+            }
+        }
+    printf("\n\nThe smallest element is %d\n",small);
+    printf("\n\nThe largest element is %d\n",large);
+    printf("\n\nThe difference between largestand smallest element is %d\n",large-small);
+
+
+
