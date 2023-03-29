@@ -39,3 +39,18 @@ void main()
   for(i= 0; i< m; i++)
    {
         printf("\n");
+
+        for(j = 0; j < n; j++)
+        {
+        if(m>=4&&n>=4)   //to check matrix of order 4 and more
+        {
+           if(i > j)
+           {
+              printf("%d\t ", matrix[i][j]);
+           }
+           else
+           {
+              printf("0");
+              printf("\t");
+           }
+        }
