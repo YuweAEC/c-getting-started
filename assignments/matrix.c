@@ -54,3 +54,23 @@ void main()
               printf("\t");
            }
         }
+        }
+        else
+        {
+            if(i >= j)
+           {
+              printf("%d\t ", matrix[i][j]);
+           }
+           else
+           {
+              printf("0");
+              printf("\t");
+           }
+
+        }
+        }
+   }
+
+//................
+      if(m>=4&&n>=4)   //to check matrix of order 4 and more
+      {
