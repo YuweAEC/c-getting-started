@@ -206,3 +206,9 @@ void main()
                 {
                  if(i<=j)
                  {
+
+                    if(matrix[i][j]>large)
+                       large=matrix[i][j];
+
+                    if(matrix[i][j]<small)
+                       small=matrix[i][j];
