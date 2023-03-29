@@ -169,3 +169,15 @@ void main()
 
             }
          }
+
+      //check for small and large no.
+      if(m>=4&&n>=4)
+      {
+
+           large=small=matrix[0][1];
+      }
+      else
+      {
+               large=small=matrix[0][0];
+      }
+
