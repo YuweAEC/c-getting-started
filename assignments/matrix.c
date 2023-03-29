@@ -32,3 +32,10 @@ void main()
          }
    }
 
+
+ // lower triangular matrix
+
+  printf("\n\nThe Lower Triangular Matrix is: \n");
+  for(i= 0; i< m; i++)
+   {
+        printf("\n");
