@@ -74,3 +74,16 @@ void main()
 //................
       if(m>=4&&n>=4)   //to check matrix of order 4 and more
       {
+
+           large=small=matrix[1][0];
+      }
+      else
+      {
+               large=small=matrix[0][0];
+      }
+
+
+          for(i=0;i<m;i++)
+          {
+            for(j=0;j<n;j++)
+            {
