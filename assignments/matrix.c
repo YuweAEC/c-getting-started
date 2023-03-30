@@ -129,10 +129,10 @@ void main()
 
     // upper triangular matrix
 
-      printf("\n\n\nThe Upper Triangular Matrix is:\n ");
+   printf("\n\n\nThe Upper Triangular Matrix is:\n ");
 
-      for(i = 0; i < m; i++)
-      {
+  for(i = 0; i < m; i++)
+  {
          printf("\n");
          for(j = 0; j< n; j++)
          {
