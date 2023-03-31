@@ -143,28 +143,25 @@ void main()
                 printf("%d\t ", matrix[i][j]);
                 }
                 else
-            {
-                 printf("0");
-                 printf("\t");
-            }
-          }
-            else
-            {
-               if(i<=  j)
-             {
-                 printf("%d\t ", matrix[i][j]);
-
-             }
-            else
-            {
-                 printf("0");
-                 printf("\t");
-            }
-
-            }
-
-            }
-         }
+                {
+                    printf("0");
+                    printf("\t");
+                    }
+                    }
+                    else
+                    {
+                        if(i<= j)
+                        {
+                            printf("%d\t ", matrix[i][j]);
+                            }
+                            else
+                            {
+                                printf("0");
+                                printf("\t");
+                                }
+                                }
+                                }
+                                }
 
       //check for small and large no.
       if(m>=4&&n>=4)
