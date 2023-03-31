@@ -133,20 +133,16 @@ void main()
 
   for(i = 0; i < m; i++)
   {
-         printf("\n");
-         for(j = 0; j< n; j++)
-         {
-
-
-          if(m>=4&&n>=4)
-
-          {
-             if(i < j)
-             {
-                 printf("%d\t ", matrix[i][j]);
-
-             }
-            else
+    printf("\n");
+    for(j = 0; j< n; j++)
+    {
+        if(m>=4&&n>=4)
+        {
+            if(i < j)
+            {
+                printf("%d\t ", matrix[i][j]);
+                }
+                else
             {
                  printf("0");
                  printf("\t");
