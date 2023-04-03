@@ -1,6 +1,7 @@
 //in c the folllowing structures are followed for writing the codes  
 
 #include <stdio.h>
+
 int main()
 {
    // printf() displays the string inside quotation
