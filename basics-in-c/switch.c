@@ -17,5 +17,13 @@ void main()
                 printf("fan");
                 break;
             }
- 
+         case 3:
+            {
+                printf("AC");
+                break;
+            }
+        defualt:printf("invalid value");
+    }
+    getch();
+}
  
