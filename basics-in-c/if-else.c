@@ -10,10 +10,12 @@
 
 #include<stdio.h>
 
-int main()
+void main()
 {
-    float d,A,B,C;
+    float d;
+    float atp;
     printf("Enter Distance Travelled : ");
     scanf("%f",%d);
+    
     
 }
