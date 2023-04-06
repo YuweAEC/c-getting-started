@@ -12,4 +12,10 @@ void main()
                 printf("light");
                 break;
             }
+        case 2:
+            {
+                printf("fan");
+                break;
+            }
+ 
  
