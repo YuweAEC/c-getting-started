@@ -1,9 +1,16 @@
-void main()
+// void main()
+// {
+//     int 
+//     if()
+//     printf("");
+//     else
+//     printf("");
+//     getch();
+// }
+#include<stdio.h>
+
+int main()
 {
-    int 
-    if()
-    printf("");
-    else
-    printf("");
-    getch();
+    int amt, total;
+    printf("")
 }
