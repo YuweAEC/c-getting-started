@@ -7,10 +7,13 @@
 //     printf("");
 //     getch();
 // }
+
 #include<stdio.h>
 
 int main()
 {
-    int amt, total;
-    printf("")
+    float d,A,B,C;
+    printf("Enter Distance Travelled : ");
+    scanf("%f",%d);
+    
 }
