@@ -13,6 +13,10 @@
 
 int main()
 {
+    for(;;)
+    {
+        printf("hello world");
+    }
     //
     printf("Hello World");
 }
