@@ -1,4 +1,0 @@
-for( ; ; )
-{
-    printf("hello world!");
-}
