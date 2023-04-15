@@ -14,7 +14,6 @@ void main()
     printf("Enter values of a and b");
     scanf("%d %d",&a,&b);
     printf("a==%d b==%d",a,b);
-    return 0;
 }
 
 
