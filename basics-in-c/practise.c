@@ -8,10 +8,17 @@
 // }
 
 #include<stdio.h>
-void main()
+// void main()
+// {
+//     int a,b;
+//     printf("Enter values of a and b");
+//     scanf("%d %d",&a,&b);
+//     printf("a==%d b==%d",a,b);
+// }
+
+
+int main()
 {
-    int a,b;
-    printf("Enter values of a and b");
-    scanf("%d %d",&a,&b);
-    printf("a==%d b==%d",a,b);
+    printf("Welcome to my practice file");
+    return 0;
 }
