@@ -5,7 +5,7 @@ void main()
     int i;
     printf("enter the value:");
     scanf("%d",&i);
-    switvh(i)
+    switch(i)
             {
         case 1:
             {
@@ -24,6 +24,6 @@ void main()
             }
         defualt:printf("invalid value");
     }
-    getch();
+    
 }
  
