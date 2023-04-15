@@ -10,7 +10,7 @@ void main()
         case 1:
             {
                 printf("light");
-                break;
+                break;1
             }
         case 2:
             {
