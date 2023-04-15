@@ -14,11 +14,12 @@ void main()
     printf("Enter values of a and b");
     scanf("%d %d",&a,&b);
     printf("a==%d b==%d",a,b);
-}
-
-
-int main()
-{
-    printf("Welcome to my practice file");
     return 0;
 }
+
+
+// int main()
+// {
+//     printf("Welcome to my practice file");
+//     return 0;
+// }
