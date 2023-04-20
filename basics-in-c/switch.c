@@ -3,14 +3,14 @@
 void main()
 {
     int i;
-    printf("enter the value:");
+    printf("enter the value: ");
     scanf("%d",&i);
     switch(i)
             {
         case 1:
             {
                 printf("light");
-                break;1
+                break;
             }
         case 2:
             {
@@ -24,6 +24,5 @@ void main()
             }
         defualt:printf("invalid value");
     }
-    
+
 }
- 
