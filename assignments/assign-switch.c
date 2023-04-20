@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
-{    int week;
+{    
+    int week;
     printf("Enter the Week Number:");
     scanf("%d", &week);
     
@@ -32,4 +33,3 @@ int main()
     }
     return 0;
 }
-
