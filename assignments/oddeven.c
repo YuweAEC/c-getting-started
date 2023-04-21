@@ -11,7 +11,7 @@ int main()
     scanf("%d", &num);
     switch(num % 2)
     {
-        case 0: 
+        case 0:
         printf("Number is Even:");
         break;
         case 1: 
@@ -22,19 +22,19 @@ int main()
 }
 
 
-// #include<stdio.h>
-// int main()
-// {
-//     int n, i;
-//     printf("Enter the Number: ");
-//     scanf("%d", &n);
+#include<stdio.h>
+int main()
+{
+    int n, i;
+    printf("Enter the Number: ");
+    scanf("%d", &n);
 
-//     switch(n % 2)
-//     {
-//         case 0: printf("The Number is EVEN...");
-//         break;
-//         case 1: printf("The Number ODD...");
-//         break;
-//     }
-//     return 0;
-// }
+    switch(n % 2)
+    {
+        case 0: printf("The Number is EVEN...");
+        break;
+        case 1: printf("The Number ODD...");
+        break;
+    }
+    return 0;
+}
