@@ -14,15 +14,12 @@ int main()
 
     switch(num % 2)
     {
-        /* If n%2 == 0 */
         case 0: 
-            printf("Number is Even");
-            break;
-
-        /* Else if n%2 == 1 */
+        printf("Number is Even");
+        break;
         case 1: 
-            printf("Number is Odd");
-            break;
+        printf("Number is Odd");
+        break;
     }
 
     return 0;
