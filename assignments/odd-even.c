@@ -7,16 +7,16 @@
 int main()
 {
     int num;
-    printf("Enter number to check even/odd: ");
+    printf("Enter number to check even/odd:");
     scanf("%d", &num);
 
     switch(num % 2)
     {
         case 0: 
-        printf("Number is Even");
+        printf("Number is Even:");
         break;
         case 1: 
-        printf("Number is Odd");
+        printf("Number is Odd:");
         break;
     }
 
