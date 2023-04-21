@@ -7,9 +7,7 @@
 int main()
 {
     int num;
-
-    /* Input a number from user */
-    printf("Enter any number to check even or odd: ");
+    printf("Enter number to check even/odd: ");
     scanf("%d", &num);
 
     switch(num % 2)
