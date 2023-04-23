@@ -2,7 +2,7 @@
 /*
 print your name 
 */
-int main()
+void main()
 {
     printf("Yuvraj Singh");
 
