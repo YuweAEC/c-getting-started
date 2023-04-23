@@ -6,11 +6,11 @@ void main()
         printf("%d",x);
     }
 }
-int addnumseq(int a);
-{
-    int b;
-    b=a+1;
-    printf("%d",a+b);
-    retrun(a+b);
-}
+// int addnumseq(int a);
+// {
+//     int b;
+//     b=a+1;
+//     printf("%d",a+b);
+//     retrun(a+b);
+// }
 
