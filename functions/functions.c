@@ -5,6 +5,7 @@ void main()
         x= addnumseq(i);
         printf("%d",x);
     }
+    return 0;
 }
 // int addnumseq(int a);
 // {
