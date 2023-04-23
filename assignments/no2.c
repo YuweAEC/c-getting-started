@@ -2,7 +2,8 @@
  * C Program to print Multiplication table using for loop
  */
  
-#include <stdio.h>
+/*
+ *#include <stdio.h>
  
 int main()
 {
@@ -17,3 +18,5 @@ int main()
     }
     return 0;
 }
+*/
+
