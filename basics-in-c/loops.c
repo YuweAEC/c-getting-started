@@ -1,4 +1,6 @@
-/*WAP to print hello word using loops*/
+/*
+WAP to print hello word using loops
+*/
 
 #include<stdio.h>
 int main()
