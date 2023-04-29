@@ -11,11 +11,3 @@
 //     return 0;
 // }
 
-int main()
-{
-    for(i=1;i<=10;i++);
-    {
-        printf("hello world");
-    }
-}
-
