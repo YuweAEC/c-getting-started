@@ -10,13 +10,12 @@ int main()
     {
         A=((d*13.25));
         printf("Amount charged :%f", A);
-    
+    }
     else(d<=250)
-    
+    {
         printf("Not getting the right amount:");
     }
-    
-    
+
 }
  
  
