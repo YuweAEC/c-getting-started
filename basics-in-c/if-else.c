@@ -24,7 +24,7 @@ void main()
     printf("Enter a number less than 10");
     scanf("%d", &num);
 
-    if (num<10)
+    if (num<=10)
     printf("What an obideant servant you are !");
 }
 
