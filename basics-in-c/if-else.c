@@ -13,7 +13,7 @@ int main()
     
     else(d<=250)
     
-        printf("Not getting the right amount:")
+        printf("Not getting the right amount:");
     }
     
     
