@@ -2,9 +2,9 @@
 
 int main()
 {
-    float d,A,B,C;
+    float d,A;
     printf("Enter Distance Travelled: ");
-    scanf("%d",%d);
+    scanf("%d",&d);
     
     if(0<=d && d<=100)
     {
