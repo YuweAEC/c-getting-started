@@ -1,15 +1,3 @@
-// void main()
-// {
-//     int 
-//     if()
-//     printf("");
-//     else
-//     printf("");
-//     getch();
-// }
-
-#include<stdio.h>
-
 // int main()
 // {
 //     float d,A,B,C;
@@ -37,3 +25,4 @@ void main()
     if (num<10)
     printf("What an obideant servant you are !");
 }
+
