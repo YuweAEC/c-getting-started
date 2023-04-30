@@ -1,3 +1,5 @@
+#include<stdio.h>
+
 // int main()
 // {
 //     float d,A,B,C;
@@ -14,7 +16,7 @@
     
     
 // }
-
+ 
 void main()
 {
     int num;
