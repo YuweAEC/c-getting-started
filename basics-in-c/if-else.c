@@ -12,7 +12,7 @@ int main()
         printf("Amount charged :%f", A);
     }
     
-    else if (d<=250)
+    else(d<=250)
     {
         printf("Not getting the right amount:")
     }
