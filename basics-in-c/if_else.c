@@ -12,5 +12,10 @@ void main()
         printf("What an obideant servant you are !");
     }
 
+    else
+
+    printf("Stay follow the rules");
+
+
 }
 
