@@ -8,6 +8,9 @@ void main()
     scanf("%d", &num);
 
     if (num<=10)
-    printf("What an obideant servant you are !");
+    {
+        printf("What an obideant servant you are !");
+    }
+
 }
 
