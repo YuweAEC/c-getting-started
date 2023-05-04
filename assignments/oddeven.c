@@ -31,9 +31,9 @@ int main()
 
     switch(n % 2)
     {
-        case 0: printf("The Number is EVEN...");
+        case 0: printf("The Number is EVEN.");
         break;
-        case 1: printf("The Number ODD...");
+        case 1: printf("The Number ODD.");
         break;
     }
     return 0;
