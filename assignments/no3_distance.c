@@ -13,6 +13,6 @@ int main()
     }
     else
     {
-        printf("Not getting the right amount:");
+        printf("Not getting the right amount.");
     }
 }
