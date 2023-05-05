@@ -17,3 +17,4 @@ void main()
 //     retrun(a+b);
 // }
 
+// ALTER KEY APPLIED TO THE PROGRAM AND THEN ADDED THE 
