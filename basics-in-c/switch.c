@@ -17,13 +17,17 @@ void main()
                 printf("fan");
                 break;
             }
-         case 3:
+        case 3:
             {
                 printf("AC");
                 break;
             }
+        case 4:
+            {
+                printf("LED");
+                break;
+            }
         defualt:printf("invalid value");
-    }
-
+            }
 }
 
