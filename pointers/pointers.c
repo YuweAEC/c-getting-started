@@ -6,3 +6,4 @@ void main()
     printf("\n Address of i=%u",&i);
     printf("\n Value of i=%d",i);
 }
+
