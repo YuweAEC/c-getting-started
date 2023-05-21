@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+int addnumseq(int);
 int main()
 {
     for(i=10;i=<20;i=i+1)
