@@ -12,3 +12,13 @@ void main()
     fact = factorial(a);
     printf("factorial value =%d", fact);
 }
+
+void factorial(int x);
+{
+    int f=1,i;
+
+    for(i=x;i>=1;i--)
+        f=f*i;
+
+    return (f);
+}
