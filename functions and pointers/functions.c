@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int addnumseq(int a);
+int addnumseq(int a)
 {
     int b;
     b=a+1;
