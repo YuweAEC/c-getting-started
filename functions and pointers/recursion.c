@@ -13,7 +13,7 @@ void main()
     printf("factorial value =%d", fact);
 }
 
-void factorial(int x);
+void factorial(int x)
 {
     int f=1,i;
 
