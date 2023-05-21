@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void factorial(int);
+int factorial(int);
 
 void main()
 {
@@ -13,7 +13,7 @@ void main()
     printf("factorial value =%d", fact);
 }
 
-void factorial(int x)
+int factorial(int x)
 {
     int f=1,i;
 
