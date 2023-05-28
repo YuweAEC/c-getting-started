@@ -1,4 +1,7 @@
-main()
+#include<stdio.h>
+#include<conio.h>
+
+int main()
 {
     int avg, sum = 0;
     int i;
