@@ -16,8 +16,8 @@
 >>
 >> > variables.c
 
->>   bacics.c
->> 
+>>  Getting Started
+>> - variables.c
 >>
 >>
 
