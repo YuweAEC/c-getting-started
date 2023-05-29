@@ -15,10 +15,8 @@
 >> Refer this list to get familiar with my repo and the arrangements of the files 
 >>
 >>> variables.c
-
 >> bacics.c
 >>
->
+>>
 >>
 
->>
