@@ -14,10 +14,10 @@
 >
 >> Refer this list to get familiar with my repo and the arrangements of the files 
 >>
->> Getting Started
+>> 1. Getting Started
 >> - variables.c
 >> 
->> Decision Control Sturcture
+>> 2. Decision Control Sturcture
 >> - if_else.c
 >>
 
