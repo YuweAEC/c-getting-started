@@ -13,7 +13,6 @@ void main()
     }
 
     else
-
     printf("Stay follow the rules");
 
 
