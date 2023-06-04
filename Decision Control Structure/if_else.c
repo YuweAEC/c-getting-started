@@ -15,7 +15,6 @@ void main()
     else
     printf("/nStay follow the rules");
 
-
 }
 
 
