@@ -1,8 +1,8 @@
 #include<stdio.h>
 #include<conio.h>
 
-void main()
-{
+void main(){
+
     int num;
 
     printf("/nEnter a number less than 10:");
