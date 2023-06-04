@@ -4,7 +4,7 @@ void main()
 {
     int num;
 
-    printf("Enter a number less than 10:");
+    printf("/nEnter a number less than 10:");
     scanf("%d", &num);
 
     if (num<=10)
@@ -13,7 +13,7 @@ void main()
     }
 
     else
-    printf("Stay follow the rules");
+    printf("/nStay follow the rules");
 
 
 }
