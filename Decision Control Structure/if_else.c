@@ -10,7 +10,7 @@ void main()
 
     if (num<=10)
     {
-        printf("What an obideant servant you are !");
+        printf("/nWhat an obideant servant you are !");
     }
 
     else
