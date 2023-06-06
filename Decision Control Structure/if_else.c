@@ -36,4 +36,3 @@ int main()
 // int x = 6;
 // int y = (x == 5 ? 5 : 10);
 
-
