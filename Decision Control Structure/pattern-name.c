@@ -38,7 +38,8 @@ int main()
             printf("*");
         }
 
-      printf(" ");
+      printf("
+");
     }
 
     // Prints lower triangular part with stars
@@ -73,7 +74,8 @@ int main()
                 printf("*");
             }
       }
-      printf("");
+      printf("
+");
     }
     return 0;
 }
