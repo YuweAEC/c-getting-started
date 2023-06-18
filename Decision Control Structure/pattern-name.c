@@ -67,7 +67,7 @@ int main()
                 printf("*");
             }
       }
-      
+
       else
       {
             for (j = 1; j <= (i * 2) - 1; j++)
@@ -79,6 +79,7 @@ int main()
       printf("
       ");
     }
+    
     return 0;
 }
 
