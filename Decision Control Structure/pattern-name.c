@@ -46,15 +46,15 @@ int main()
 
     for (i = n; i >= 1; i--)
     {
-      for (j = i; j < n; j++)
-      {
+        for (j = i; j < n; j++)
+        {
             printf(" ");
-      }
+        }
 
     // Print the name on screen
 
-      if (i == n)
-      {
+        if (i == n)
+        {
             for (j = 1; j <= (n * 2 - len) / 2; j++)
             {
                 printf("*");
@@ -66,20 +66,20 @@ int main()
             {
                 printf("*");
             }
-      }
+       }
 
-      else
-      {
+       else
+       {
             for (j = 1; j <= (i * 2) - 1; j++)
             {
                 printf("*");
             }
-      }
+       }
 
-      printf("
-      ");
-    }
-    
+       printf("
+       ");
+     }
+
     return 0;
 }
 
