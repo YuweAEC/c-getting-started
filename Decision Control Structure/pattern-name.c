@@ -66,19 +66,19 @@ int main()
             {
                 printf("*");
             }
-       }
+        }
 
-       else
-       {
+        else
+        {
             for (j = 1; j <= (i * 2) - 1; j++)
             {
                 printf("*");
             }
-       }
+        }
 
-       printf("
-       ");
-     }
+        printf("
+        ");
+    }
 
     return 0;
 }
