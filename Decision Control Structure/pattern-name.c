@@ -52,8 +52,8 @@ int main()
         {
             printf(" ");
         }
-
-    // Print the name on screen
+        
+        // Print the name on screen
 
         if (i == n)
         {
