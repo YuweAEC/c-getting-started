@@ -17,7 +17,7 @@ int main()
     
     len = strlen(name);    
     
-    // Print upper part of the heart shape with stars
+    // Print upper part of the heart shape with stars 
 
     for (i = n / 2; i <= n; i += 2)
     {
@@ -45,7 +45,7 @@ int main()
         ");
     }
 
-    // Prints lower triangular part with stars
+    // Prints lower triangular part with stars 
 
     for (i = n; i >= 1; i--)
     {
