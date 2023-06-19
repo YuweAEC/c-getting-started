@@ -10,6 +10,7 @@ int main()
 
     printf("Enter your name: ");
     gets(name);
+    
     printf("Enter no of rows: ");
     scanf("%d", &n);
     
