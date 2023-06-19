@@ -10,11 +10,12 @@ int main()
 
     printf("Enter your name: ");
     gets(name);
-    
+
     printf("Enter no of rows: ");
     scanf("%d", &n);
     
-    len = strlen(name);
+    len = strlen(name);    
+    
     // Print upper part of the heart shape with stars
 
     for (i = n / 2; i <= n; i += 2)
