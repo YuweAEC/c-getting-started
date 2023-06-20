@@ -69,7 +69,7 @@ int main()
             {
                 printf("*");
             }
-        }
+        }   
 
         else
         {
